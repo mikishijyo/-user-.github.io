@@ -1,4 +1,4 @@
-# Visual Studio LiveShareで共同編集してみよう</font>
+# VScodeをVisual Studio LiveShareで共同編集してみよう</font>
 
 Visual Studio LiveShareはリアルタイムにソースコードを共同編集できる機能です。<br>
 VS Code もしくは VisualStudioをお使いならプラグインを入れるだけで使えます。
