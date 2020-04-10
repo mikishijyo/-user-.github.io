@@ -65,6 +65,11 @@ https://visualstudio.microsoft.com/ja/services/live-share/
 
 ## <font color=purple>自分の環境をシェアする（ホスト）</font>
 ---
+自分の環境をシェアするには２つのやり方があります。
+<br>
+
+### やり方その１
+
 ①画面左下のユーザー名をクリック
 
 ![画像](https://techmode.co.jp/images/vs_6.png)
@@ -77,10 +82,11 @@ https://visualstudio.microsoft.com/ja/services/live-share/
 
 <br>
 
-※ LiveShareタブ「Start collaboration session」からもコピーできます。
+### やり方その2
+
+①LiveShareタブ「Start collaboration session」をクリックすると、クリップボードに招待リンクがコピーされます。
 
 ![画像](https://techmode.co.jp/images/vs_8.png)
-
 
 <br>
 <br>
@@ -106,7 +112,6 @@ https://visualstudio.microsoft.com/ja/services/live-share/
 
 
 ※ホスト側から受け取ったリンクをブラウザで開いて参加することも可能です。
-
 
 
 
